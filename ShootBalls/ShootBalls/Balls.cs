@@ -71,6 +71,7 @@ namespace Balls
             ColorsArr.Add(Color.Red);
             ColorsArr.Add(Color.Blue);
             ColorsArr.Add(Color.Yellow);
+            //1234
             StartGame();
             DoubleBuffered = true;
         }
