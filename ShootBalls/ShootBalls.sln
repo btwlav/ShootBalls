@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShootBalls", "ShootBalls\ShootBalls.csproj", "{DC8AEE8C-9082-4FA0-A071-89D6C0279A37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainForm", "MainForm\MainForm.csproj", "{98A0B34A-36BA-4FBA-9E23-3673E2237179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC8AEE8C-9082-4FA0-A071-89D6C0279A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8AEE8C-9082-4FA0-A071-89D6C0279A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8AEE8C-9082-4FA0-A071-89D6C0279A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8AEE8C-9082-4FA0-A071-89D6C0279A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98A0B34A-36BA-4FBA-9E23-3673E2237179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A0B34A-36BA-4FBA-9E23-3673E2237179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A0B34A-36BA-4FBA-9E23-3673E2237179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A0B34A-36BA-4FBA-9E23-3673E2237179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD6D52C-6085-454E-8760-1F3CA8E06865}
+	EndGlobalSection
+EndGlobal
